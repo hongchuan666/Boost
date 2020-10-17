@@ -6,4 +6,5 @@
 /tools/build/v2/engine/bootstrap/
 /bin.v2/
 /stage/
+.vscode/c_cpp_properties.json
 .vscode/settings.json
