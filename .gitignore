@@ -6,3 +6,4 @@
 /tools/build/v2/engine/bootstrap/
 /bin.v2/
 /stage/
+.vscode/settings.json
